@@ -7,7 +7,7 @@ if (isNaN(n))
 {
 alert("Please Enter a Number");
 }
-else if (n == 0)
+else if (n === 0)
 {
 alert("The number is zero");
 }
